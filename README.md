@@ -1,6 +1,8 @@
-### Hola Soy Steven Perez 👋 ✨ 
-
-
+## Hola!! 👋 
+#### Soy Steven Perez tecnólogo en formación de Análisis y desarrollo de sistemas de información (ADSI).
+#### Me apasionan las motocicletas, 🏍 también practico algunos deportes entre ellos el ciclismo 🚵‍♀️ y gran parte de mi tiempo me dedico a programar 💻.
+#### Les comparto algunos de los lenguajes y herramientas que actualmente utilizo:
+####
 
 <!--
 
@@ -13,19 +15,21 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 
--->
 - 🏙  Colombia.
-- 🏍  Me gustan las Motocicletas.
-- 🚵‍♀️ Practico Ciclismo.
-- 💻 y Mas.
+-   Me gustan las Motocicletas.
+- Practico Ciclismo.
+- y Mas.
 
-🛠 **Lenguajes y herramientas**: ✨ 
+-->
 
-- Java                  
-- Spring Boot   
-- MySql
-- Git
-- GitHub
-- HTML5
-- CSS3
+🛠 **Lenguajes y herramientas**: 
+
+✨ Java                  
+✨ Spring Boot   
+✨ Java   
+✨ MySql   
+✨ Git   
+✨ GitHub   
+✨ HTML5   
+✨ CSS3
 
