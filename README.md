@@ -28,8 +28,7 @@
 ✨ Spring Boot   
 ✨ Angular   
 ✨ MySql   
-✨ Git   
-✨ GitHub   
+✨ Git     
 ✨ HTML5   
 ✨ CSS3
 
