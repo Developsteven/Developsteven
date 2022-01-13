@@ -1,5 +1,5 @@
 ## Hola!! 👋 
-#### Soy Steven Perez tecnólogo en formación de Análisis y desarrollo de sistemas de información (ADSI).
+#### Soy Steven Perez tecnólogo en Análisis y desarrollo de sistemas de información (ADSI), He estado trabajando en mi portafolio aplicando estos lenguajes, complementando mis conocimientos y afrontando retos personales.
 #### Me apasionan las motocicletas, 🏍 también practico algunos deportes entre ellos el ciclismo 🚵‍♀️ y gran parte de mi tiempo me dedico a programar 💻.
 #### Les comparto algunos de los lenguajes y herramientas que actualmente utilizo:
 ####
