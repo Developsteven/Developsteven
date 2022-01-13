@@ -26,7 +26,7 @@
 
 ✨ Java                  
 ✨ Spring Boot   
-✨ Java   
+✨ Angular   
 ✨ MySql   
 ✨ Git   
 ✨ GitHub   
