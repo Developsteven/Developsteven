@@ -25,9 +25,8 @@
 🛠 **Lenguajes y herramientas**: 
 
 ✨ Java                  
-✨ Spring Boot   
-✨ Angular   
-✨ MySql   
+✨ Spring Boot     
+✨ SqlServer  
 ✨ Git     
 ✨ HTML5   
 ✨ CSS3
